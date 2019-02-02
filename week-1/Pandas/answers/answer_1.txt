@@ -1,0 +1,3 @@
+male      577
+female    314
+Name: Sex, dtype: int64
